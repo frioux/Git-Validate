@@ -1,0 +1,6 @@
+Revision history for {{$dist->name}}
+
+{{$NEXT}}
+
+0.001000 Fri Nov 08 22:19 2013 CST
+ - Initial Release
