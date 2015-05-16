@@ -74,7 +74,7 @@ Or if you want to be all classy and modern:
 
 While many users apparently don't know it, there are actual correct ways to
 write a C<git> commit message.  For a good summary of why, read
-L<< this blog post | http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html >>.
+L<this blog post|http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>.
 
 This module does its best to automatically check commit messages against The
 Rules.  The current automatic checks are:
