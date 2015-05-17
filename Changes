@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+ - Fix grammar and POD errors (GH#2) (Thanks Philippe Bruhat!)
  - Abandon RT
 
 0.001000 Fri Nov 08 22:19 2013 CST
